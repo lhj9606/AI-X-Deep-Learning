@@ -7,3 +7,19 @@ Hanyang University 2021 / AI+X:Deep Learning / Final Project
 |:------:|:---:|:---:|:---:|
 |이홍준|기계공학부|2015011203|lhj9606@hanyang.ac.kr|
 
+## 1. Proposal (Option A)
+
+
+## 2. Datasets
+
+
+## 3. Methodology
+
+
+## 4. Evaluation & Analysis
+
+
+## 5. Related Work
+
+
+## 6. Conclusion & Discussion
