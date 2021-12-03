@@ -20,7 +20,7 @@
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/192179726?h=849b6a5ec9" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-
+<center>Tesla의 자율주행 예시 영상</center>
 
  ### Need
 
@@ -32,7 +32,7 @@
 
 !["CNN을 활용한 Vehicle Detection의 사례 (a) Faster R-CNN, (b) DP-SSD300, (c) SSD300, (d) DP-SSD300"](https://www.mdpi.com/sensors/sensors-19-00594/article_deploy/html/images/sensors-19-00594-g001.png)
 
-
+<center>CNN을 활용한 Vehicle Detection의 사례 (a) Faster R-CNN, (b) DP-SSD300, (c) SSD300, (d) DP-SSD300</center>
 
 ### Objective
 
