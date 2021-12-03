@@ -9,7 +9,7 @@ Hanyang University 2021 / AI+X:Deep Learning / Final Project
 
 ## 1. Proposal (Option A)
 
- 4차 산업혁명 시대가 대두되면서, 여러 기술들이 발전하고 주목받고 있지만 그 중에서도 우리 생활에 밀접하게 관련있고, 접근성이 좋은 기술 중장 주목받는 기술 중 하나를 꼽자면 바로 '자율주행' 기술일 것이다. 이러한 자율주행 기술이 급격하게 발전하게 된 이유 중 하나는 Deep Learning(Deep Neural Network)의 발전, 그리고 CNN(Convolutional Neural Network) 등의 등장으로 인한 Computer Vision 분야의 많은 기술적 도약이 있었기에 가능해졌다.
+ 4차 산업혁명 시대가 대두되면서, 여러 기술들이 발전하고 주목받고 있지만 그 중에서도 우리 생활에 밀접하게 관련있고, 접근성이 좋은 기술 중장 주목받는 기술 중 하나를 꼽자면 바로 '**자율주행**' 기술일 것이다. 이러한 자율주행 기술이 급격하게 발전하게 된 이유 중 하나는 Deep Learning(Deep Neural Network)의 발전, 그리고 CNN(Convolutional Neural Network) 등의 등장으로 인한 Computer Vision 분야의 많은 기술적 도약이 있었기에 가능해졌다.
 
  ### Need
 
