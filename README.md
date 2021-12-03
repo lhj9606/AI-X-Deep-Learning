@@ -86,11 +86,19 @@
 
  위의 데이터셋 중 자율주행 인지에 가장 자주 쓰이는 KITTI Dataset을 이용하여 우선 학습을 진행하고, 학습의 성능을 향상시키거나 변경시키기 위해 다른 Dataset도 추가적으로 사용해볼 계획이다.
 
+***KITTI Dataset Link : http://www.cvlibs.net/datasets/kitti/***
+
+
+
+
+
+
+
 
 
 ## 3. Methodology
 
-####  3.1. Pre-Processing
+####  3.1. Dataset Pre-Processing
 
 ####  3.2.  
 
