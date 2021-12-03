@@ -44,7 +44,9 @@
 
 ## 2. Datasets
 
+자율주행을 위한 딥러닝 학습용 Open Datasets은 다양하게 공개가 되어있습니다. 
 
+#### 2.1. KITTI Dataset
 
 
 
