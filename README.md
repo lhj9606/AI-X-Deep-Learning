@@ -30,6 +30,10 @@
 
 
 
+!["CNN을 활용한 Vehicle Detection의 사례 (a) Faster R-CNN, (b) DP-SSD300, (c) SSD300, (d) DP-SSD300"](https://www.mdpi.com/sensors/sensors-19-00594/article_deploy/html/images/sensors-19-00594-g001.png)
+
+
+
 ### Objective
 
 >   본 프로젝트는 YOLOv5를 기반으로 하여, 자율주행 환경에 필요한 이미지들을 모델에 학습하고, 자율주행 환경에 필요한 이미지 검출 속도에 맞게 모델을 튜닝할 예정이다. 
