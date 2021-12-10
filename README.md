@@ -98,6 +98,16 @@
 
 ## 3. Methodology
 
+#### 3.1. YOLOv5(You Only Look Once) Setting
+
+* **YOLO**
+
+  ```python
+  def  
+  ```
+
+  
+
 ####  3.1. Dataset Pre-Processing
 
 ####  3.2.  
